@@ -1,0 +1,18 @@
+{
+    "input": {
+        "Data Start" : "2017-01-01", 
+        "Data End" : "2021-01-01",
+        "Player Name": "Chris Gayle",
+        "Play Style": "batting",
+        "Year": 2020,
+        "Quarter": 5
+        
+    },
+    "output": {
+        "Player Name":"Chris Gayle",
+        "Rating": "689",
+        "Ranking": "2"
+        }
+}
+
+
